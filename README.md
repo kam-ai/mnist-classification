@@ -1,4 +1,4 @@
-# flower-image-classification
+# mnist-image-classification
 Starting template for classifying mnist
 
 Source 
